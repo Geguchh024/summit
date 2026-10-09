@@ -1,0 +1,155 @@
+{
+ "BIRCH_A": {
+  "height": 13.354288101196289,
+  "season": "SUMMER",
+  "side_v": 1.0,
+  "species": "BIRCH",
+  "tall": 1.03,
+  "top_v": 0.9296875,
+  "width": 0.957578125
+ },
+ "BIRCH_AUTUMN": {
+  "height": 12.277365684509277,
+  "season": "AUTUMN",
+  "side_v": 1.0,
+  "species": "BIRCH",
+  "tall": 1.03,
+  "top_v": 0.6640625,
+  "width": 0.6839843750000001
+ },
+ "BIRCH_B": {
+  "height": 13.284289360046387,
+  "season": "SUMMER",
+  "side_v": 0.9296875,
+  "species": "BIRCH",
+  "tall": 1.0293821151214408,
+  "top_v": 1.0,
+  "width": 1.1072345439961717
+ },
+ "MAPLE_A": {
+  "height": 8.513045310974121,
+  "season": "SUMMER",
+  "side_v": 0.98828125,
+  "species": "MAPLE",
+  "tall": 1.0290529832139217,
+  "top_v": 1.0,
+  "width": 1.0412551925010434
+ },
+ "MAPLE_AUTUMN_A": {
+  "height": 8.513045310974121,
+  "season": "AUTUMN",
+  "side_v": 0.98828125,
+  "species": "MAPLE",
+  "tall": 1.0290529832139217,
+  "top_v": 1.0,
+  "width": 1.0412551925010434
+ },
+ "MAPLE_AUTUMN_B": {
+  "height": 8.745854377746582,
+  "season": "AUTUMN",
+  "side_v": 0.859375,
+  "species": "MAPLE",
+  "tall": 1.0292241854364224,
+  "top_v": 1.0,
+  "width": 1.1976426885078368
+ },
+ "MAPLE_B": {
+  "height": 8.364559173583984,
+  "season": "SUMMER",
+  "side_v": 0.951171875,
+  "species": "MAPLE",
+  "tall": 1.0297327791458273,
+  "top_v": 1.0,
+  "width": 1.0825938047693298
+ },
+ "OAK_A": {
+  "height": 10.310455322265625,
+  "season": "SUMMER",
+  "side_v": 1.0,
+  "species": "OAK",
+  "tall": 1.03,
+  "top_v": 0.984375,
+  "width": 1.01390625
+ },
+ "OAK_AUTUMN": {
+  "height": 8.830020904541016,
+  "season": "AUTUMN",
+  "side_v": 0.767578125,
+  "species": "OAK",
+  "tall": 1.0282766915084807,
+  "top_v": 1.0,
+  "width": 1.339637827105196
+ },
+ "OAK_B": {
+  "height": 10.152220726013184,
+  "season": "SUMMER",
+  "side_v": 0.7578125,
+  "species": "OAK",
+  "tall": 1.0291906534894848,
+  "top_v": 1.0,
+  "width": 1.3581072540892172
+ },
+ "PINE_A": {
+  "height": 21.977020263671875,
+  "season": "SUMMER",
+  "side_v": 1.0,
+  "species": "PINE",
+  "tall": 1.03,
+  "top_v": 0.75,
+  "width": 0.7725000000000001
+ },
+ "PINE_B": {
+  "height": 15.615273475646973,
+  "season": "SUMMER",
+  "side_v": 1.0,
+  "species": "PINE",
+  "tall": 1.03,
+  "top_v": 0.8359375,
+  "width": 0.8610156250000001
+ },
+ "SHRUB_A": {
+  "height": 2.108020067214966,
+  "season": "SUMMER",
+  "side_v": 0.662109375,
+  "species": "SHRUB",
+  "tall": 1.0280852659269453,
+  "top_v": 1.0,
+  "width": 1.5527423485386314
+ },
+ "SHRUB_B": {
+  "height": 1.747113585472107,
+  "season": "SUMMER",
+  "side_v": 0.626953125,
+  "species": "SHRUB",
+  "tall": 1.0283325893987239,
+  "top_v": 1.0,
+  "width": 1.6402064977325437
+ },
+ "SPRUCE_A": {
+  "height": 17.494525909423828,
+  "season": "SUMMER",
+  "side_v": 1.0,
+  "species": "SPRUCE",
+  "tall": 1.03,
+  "top_v": 0.6796875,
+  "width": 0.7000781249999999
+ },
+ "SPRUCE_B": {
+  "height": 16.492778778076172,
+  "season": "SUMMER",
+  "side_v": 1.0,
+  "species": "SPRUCE",
+  "tall": 1.03,
+  "top_v": 0.78125,
+  "width": 0.8046875
+ },
+ "SPRUCE_C": {
+  "height": 14.635335922241211,
+  "season": "SUMMER",
+  "side_v": 1.0,
+  "species": "SPRUCE",
+  "tall": 1.03,
+  "top_v": 0.796875,
+  "width": 0.82078125
+ }
+}

@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "summit"
+version = "0.2.0"
+name = "Summit"
+tagline = "Procedural eroded mountains, canyons, forests and horizons"
+maintainer = "Summit contributors"
+type = "add-on"
+
+tags = ["Object", "Mesh", "Material"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+[build]
+paths_exclude_pattern = ["__pycache__/", "*.pyc"]
